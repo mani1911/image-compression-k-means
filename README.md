@@ -10,9 +10,9 @@ The script uses K-Means, a Machine Learning clustering algorithm, to cluster all
 ![ss](https://user-images.githubusercontent.com/43616959/60655227-055a3d00-9e6b-11e9-9b3c-341ccbf37f00.png)
 
 
- Original Image(dog.png)         |  Compressed Image(dog-compressed.png) 
+ Original Image        |  Compressed Image
 -------------------------|-------------------------
-![Original Image](dog.png) | ![Compressed Image](dog-compressed.png)
+![Original Image](me.jpeg) | ![Compressed Image](me-compressed.png)
 
 
 ### Requirements
