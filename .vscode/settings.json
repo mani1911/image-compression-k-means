@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "python.defaultInterpreterPath": "venv/bin/python",
+        
+    }
+}
